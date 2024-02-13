@@ -1,0 +1,84 @@
+[{
+    "name":"KFC",
+    "menu":[
+        {
+            "item":"Burger",
+            "amount":200
+        },
+        {
+            "item":"Veg Zinger Burger",
+            "amount":300
+        },
+        {
+            "item":"Classic Chicken Roll & Pepsi Combo",
+            "amount":350
+        },
+        {
+            "item":"Zinger Tandoori Box",
+            "amount":400
+        }
+    ]
+},
+{
+    "name":"Domino's Pizza",
+    "menu":[
+        {
+            "item":"Burger",
+            "amount":200
+        },
+        {
+            "item":"Veg Zinger Burger",
+            "amount":300
+        },
+        {
+            "item":"Classic Chicken Roll & Pepsi Combo",
+            "amount":350
+        },
+        {
+            "item":"Zinger Tandoori Box",
+            "amount":400
+        }
+    ]
+},
+{
+    "name":"Burger King",
+    "menu":[
+        {
+            "item":"Burger",
+            "amount":200
+        },
+        {
+            "item":"Veg Zinger Burger",
+            "amount":300
+        },
+        {
+            "item":"Classic Chicken Roll & Pepsi Combo",
+            "amount":350
+        },
+        {
+            "item":"Zinger Tandoori Box",
+            "amount":400
+        }
+    ]
+},{
+    "name":"McDonald's",
+    "menu":[
+        {
+            "item":"Burger",
+            "amount":200
+        },
+        {
+            "item":"Veg Zinger Burger",
+            "amount":300
+        },
+        {
+            "item":"Classic Chicken Roll & Pepsi Combo",
+            "amount":350
+        },
+        {
+            "item":"Zinger Tandoori Box",
+            "amount":400
+        }
+    ]
+}
+]
